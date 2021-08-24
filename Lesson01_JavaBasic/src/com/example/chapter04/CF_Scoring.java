@@ -26,17 +26,13 @@ public class CF_Scoring {
 		
 		if(sc >= 90) {
 			System.out.println("A등급");
-		}
-		else if (sc >= 80) {
+		}else if (sc >= 80) {
 			System.out.println("B등급");
-		}
-		else if (sc >= 70) {
+		}else if (sc >= 70) {
 			System.out.println("C등급");
-		}
-		else if (sc >= 60) {
+		}else if (sc >= 60) {
 			System.out.println("D등급");
-		}
-		else {
+		}else {
 			System.out.println("F등급");
 		}
 	}
