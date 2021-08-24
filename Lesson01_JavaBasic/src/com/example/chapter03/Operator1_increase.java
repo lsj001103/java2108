@@ -15,7 +15,7 @@ public class Operator1_increase {
 		
 		// 조건연산자 3항연산
 		String result;
-		result = 10 > 5 ? "false" : "true";
+		result = 10 > 5 ? "true" : "false";
 		System.out.println(result);
 		
 
