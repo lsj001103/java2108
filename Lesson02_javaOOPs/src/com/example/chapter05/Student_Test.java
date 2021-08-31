@@ -10,9 +10,9 @@ public class Student_Test {
 		// 객체참조변수
 		Student1 hong = new Student1(); //클래스 생성자 = 클래스 이름()
 		System.out.println(hong);
-		hong.StudentName
 		
-		public Studend1(int studentID)
+		
+	
 		
 	}
 
