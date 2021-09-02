@@ -28,7 +28,7 @@ public class Book {
 		this.author = author;
 	}
 	
-	public void showBookInfo() {
+	public void showInfo() {
 		System.out.println(bookName + "," + author);
 	}
 	
